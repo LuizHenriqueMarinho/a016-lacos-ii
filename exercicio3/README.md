@@ -1,4 +1,4 @@
-# Exercício 3
+<!-- # Exercício 3
 
 Crie um array com 5 strings. Faça um programa que percorra este array e imprima as strings em formato de ranking, como no exemplo abaixo:
 
@@ -14,4 +14,5 @@ const maioresPaises = ["Rússia", "Canadá", "China", "EUA", "Brasil"];
 "3 - China"
 "4 - EUA"
 "5 - Brasil"
-```
+``` -->
+
